@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuROpzMOplHvazPA9bDXjQe/2uZxjWsx9piT0WL2g/Ou3EcpcBJsy69AKYXDzJdRk5nrFc5KryTqcV9zWNBqJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jogando\\Documents\\MOBILEAPP\\RangeKata\\RangeKata\\RangeKata.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jogando\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
